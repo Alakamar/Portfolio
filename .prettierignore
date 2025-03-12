@@ -1,0 +1,5 @@
+*.webmanifest
+*.json
+*.lock
+*.scss
+*.md

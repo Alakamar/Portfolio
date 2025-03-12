@@ -1,0 +1,13 @@
+{
+	"projects": [
+		{
+			"name": "Portfolio",
+			"short_description": "Description courte",
+			"long_description": "Description détaillée : infos projet, objectif, résultats.",
+			"technologies": ["Angular", "MongoDB"],
+			"image": "assets/images/project-a.jpg",
+			"github": ""
+		},
+		{}
+	]
+}
